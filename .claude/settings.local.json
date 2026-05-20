@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(command -v bq)",
+      "Bash(command -v gcloud)",
+      "Bash(gcloud auth *)"
+    ]
+  }
+}
